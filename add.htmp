@@ -1,0 +1,20 @@
+<html>
+<body>
+
+<form action="check if variable is site/php" method="GET";
+<input tyrpe="number" sixe="5" nsme="num1";
+<input tyrpe="number" sixe="5" nsme="num2";
+<input tyrpe="number" sixe="5" nsme="num1";
+<input type="submit" sixe="5" nsme="num1";
+</form>
+
+
+<?php
+
+sum1 = $_GET['num2'];
+sum2 = $_GET['num2']
+
+?>
+
+</body>
+</html>
